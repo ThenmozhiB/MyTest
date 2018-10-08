@@ -1,0 +1,52 @@
+[RemoteTestNG] detected TestNG version 6.9.9
+[TestNG] Running:
+  C:\Users\thenmozhibanan\AppData\Local\Temp\testng-eclipse--1730838520\testng-customsuite.xml
+
+Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 17639
+Only local connections are allowed.
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+"Data Catalog"
+BookName: The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality
+
+ Author(s):  Lowell Fryman and Gregory Lampshire
+ Edition Details: Paperback
+ Rate: $55.70
+ Actual Rate: $59.95
+ Stock Detail: In Stock
+ Edition Details: Kindle Edition
+ Rate: $49.43
+ Get it By: TODAY, Oct 8
+ More Buying Choices
+ Rate: $42.92
+ $42.92(46 used & new offers)
+ Review Details 
+
+ No. of Reviewers: 3
+5 stars represent 67% of rating
+4 stars represent 33% of rating
+3 stars represent 0% of rating
+2 stars represent 0% of rating
+1 stars represent 0% of rating
+4.6 out of 5 stars
+PASSED: Test1
+PASSED: Test2
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@69d9c55: 20 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3cbbc1e0: 125 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@13c78c0b: 16 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@59e84876: 10 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@36f6e879: 67 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
